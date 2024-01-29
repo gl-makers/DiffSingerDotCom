@@ -1,0 +1,22 @@
+* {
+  transition: all 0.3s ease;
+}
+
+path {
+  transition: all 0.3s, color 0.1s ease !important;
+}
+
+body {
+  background-color: aliceblue;
+  overflow-x: hidden;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}

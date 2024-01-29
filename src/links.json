@@ -1,0 +1,122 @@
+[
+    {
+        "link": "https://github.com/openvpi/DiffSinger",
+        "title": "Github - OpenVPI/DiffSinger",
+        "desc": "代码仓库",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112118423066f3a7811.jpg"
+    },
+    {
+        "link": "https://github.com/openvpi/vocoders/releases",
+        "title": "社区声码器",
+        "desc": "NSF-HiFiGAN",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121184401ac9152019.jpg"
+    },
+    {
+        "link": "https://openvpi-docs.feishu.cn/wiki/KmBFwoYDEixrS4kHcTAcajPinPe",
+        "title": "DiffSinger教程",
+        "desc": "飞书文档",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112118481481c989194.png"
+    },
+    {
+        "link": "https://github.com/openvpi/MakeDiffSinger",
+        "title": "Make Diffsinger",
+        "desc": "数据集制作工具",
+        "img": "https://cloud.zhibin.club/uploads/images/20231120/20231120232313ea4677963.png"
+    },
+    {
+        "link": "https://github.com/openvpi/SOME",
+        "title": "SOME",
+        "desc": "歌声MIDI提取工具",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/202311211852507f9267650.png"
+    },
+    {
+        "link": "https://github.com/openvpi/dataset-tools",
+        "title": "Dataset Tools",
+        "desc": "数据集标记工具",
+        "img": "https://cloud.zhibin.club/uploads/images/20231120/20231120232313ea4677963.png"
+    },
+    {
+        "link": "https://www.codewithgpu.com/i/openvpi/DiffSinger/DiffSinger_Full",
+        "title": "AutoDL镜像",
+        "desc": "斯圣君维护版",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121185948d8fb37134.jpg"
+    },
+    {
+        "link": "https://github.com/openvpi/SingingVocoders",
+        "title": "声码器训练/微调",
+        "desc": "Github仓库",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121184401ac9152019.jpg"
+    },
+    {
+        "link": "https://github.com/wolfgitpr/LyricFA",
+        "title": "LyricFA",
+        "desc": "将整首歌的歌词自动拆分到切片中",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112118481481c989194.png"
+    },
+    {
+        "link": "https://github.com/qiuqiao/SOFA",
+        "title": "SOFA",
+        "desc": "自动标注 支持输出TextGrid等多种格式",
+        "img": "https://cloud.zhibin.club/uploads/images/20231211/2023121116050401f809464.png"
+    },
+    {
+        "link": "https://github.com/stakira/OpenUtau/releases",
+        "title": "OpenUTAU",
+        "desc": "兼容编辑器 Beta版",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121190620ed2020820.jpg"
+    },
+    {
+        "link": "https://github.com/xunmengshe/OpenUtau/releases",
+        "title": "OpenUTAU",
+        "desc": "For DiffSinger [适配较快]",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121190620ed2020820.jpg"
+    },
+    {
+        "link": "https://docs.qq.com/sheet/DQXNDY0pPaEpOc3JN?tab=BB08J2",
+        "title": "DiffSinger自制声库分享",
+        "desc": "声库获取",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121191425c977f0778.jpg"
+    },
+    {
+        "link": "https://www.zhibin.club/",
+        "title": "挚彬Club",
+        "desc": "声库发布网站",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112119170089fc51168.jpg"
+    },
+    {
+        "link": "https://docs.qq.com/sheet/DQXBWaWxSQVBBR2hx",
+        "title": "声库代制作",
+        "desc": "社区群友代制作",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112118481481c989194.png"
+    },
+    {
+        "link": "https://github.com/atonyxu/OpenUtau/releases",
+        "title": "OpenUTAU(白糖版)",
+        "desc": "针对多语种优化",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/20231121190620ed2020820.jpg"
+    },
+    {
+        "link": "https://openvpi.github.io/home/",
+        "title": "OpenSvip",
+        "desc": "开源多格式互转工具",
+        "img": "https://cloud.zhibin.club/uploads/images/20231202/20231202230755c9c3c4826.png"
+    },
+    {
+        "link": "https://utaformatix.tk/",
+        "title": "UtaFormatix",
+        "desc": "支持多种格式及UFDATA",
+        "img": "https://cloud.zhibin.club/uploads/images/20231202/20231202230935b48718081.jpg"
+    },
+    {
+        "link": "https://docs.qq.com/sheet/DWVdLTExySmFzY0VU?tab=BB08J2",
+        "title": "工程分享文档",
+        "desc": "Vsqx工程文件交流平台",
+        "img": "https://cloud.zhibin.club/uploads/images/20231121/2023112118481481c989194.png"
+    },
+    {
+        "link": "https://www.vsqx.top/",
+        "title": "VSQX.TOP",
+        "desc": "“歌声合成软件”的工程配布站",
+        "img": "https://cloud.zhibin.club/uploads/images/20240116/202401160947437141b2784.jpg"
+    }
+]
